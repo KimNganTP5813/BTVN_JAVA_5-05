@@ -1,6 +1,6 @@
 public class Session5_05 {
     public static void main(String[] args) {
-        int N = 100000;
+        int N = 100000; //100.000 lần ghép chữ
         String appendText = " World";
 
         //String
